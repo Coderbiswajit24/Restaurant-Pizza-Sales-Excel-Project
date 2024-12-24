@@ -22,8 +22,12 @@ This pizza sales dataset make up 12 relevant features:
 **pizza_name:** Name of the pizza as shown in the menu
 
 **Project Outcomes:**
-(1). Friday Is the Top Selling Weekday for every Week.
-(2). Classic Pizza Category is top Popular Category to Customers.
-(3). Month of July 2015 is top selling Month for Pizza.
-(4). Large and Medium Size Pizzas Ordered Most often.
-(5). At 12:00PM to 12:59 PM is highest Quantity of Pizza Selling Time.
+(1).Friday consistently demonstrates the highest weekly sales volume across all observed weeks.
+
+(2).The 'Classic' pizza category consistently ranks as the most popular choice among customers.
+
+(3).July 2015 exhibited the highest overall pizza sales volume among all months analyzed.
+
+(4).Large and Medium size pizzas consistently account for the highest quantities sold across all order sizes.
+
+(5).The timeframe between 12:00 PM and 12:59 PM consistently experiences the highest quantity of pizza sales across all observed time periods.
